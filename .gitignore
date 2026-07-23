@@ -1,0 +1,52 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python environment files
+.env
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Matplotlib cache
+.matplotlib/
+
+# KaggleHub cache (optional)
+.cache/
+kagglehub/
+
+# Large dataset files (optional)
+# Uncomment if you don't want to upload datasets
+# Titanic-Dataset.csv
+# Titanic_Cleaned.csv
